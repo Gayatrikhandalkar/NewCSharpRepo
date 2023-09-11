@@ -1,0 +1,218 @@
+﻿{
+  "TestDataModel": {
+    "ClarityLoginModel": {
+      "Username": "za\\SaTestUser11",
+      "Password": "Tm92ZW1iZXJAMjAxNw==",
+      "Country": "South Africa",
+      "URL": "http://devtestzakomodo.multichoice.co.za/komodoui.ui/#/home",
+      "Host": "dvtstsascan.za.ds.naspers.com",
+      "Port": "1551",
+      "ServiceName": "DVTSAF02",
+      "DbUserName": "cd_saf_pr",
+      "DbPassword": "Y2Rfc2FmX2R0"
+    },
+    "BillingCollectionSupervisorModel": {
+      "Username": "za\\SaTestUser14",
+      "Password": "Tm92ZW1iZXJAMjAxNw==",
+      "Country": "South Africa",
+      "URL": "http://devtestzakomodo.multichoice.co.za/komodoui.ui/#/home",
+      "Host": "dvtstsascan.za.ds.naspers.com",
+      "Port": "1551",
+      "ServiceName": "DVTSAF02",
+      "DbUserName": "cd_saf_pr",
+      "DbPassword": "Y2Rfc2FmX2R0"
+    },
+
+    "DCCLoginSAModel": {
+      "Username": "za\\SaTestUser10",
+      "Password": "Tm92ZW1iZXJAMjAxNw==",
+      "Country": "South Africa",
+      "URL": "http://devtestzakomodo.multichoice.co.za/komodoui.ui/#/home"
+    },
+    "CreateDealerModel": {
+      "CustomerType": "Super Dealer",
+      "StockHandler": "Agent",
+      "CompanyName": "TATA",
+      "CompanyRegistrationNumber": "123456789",
+      "VATNo": "123242424",
+      "TaxNo": "4343423",
+      "LanguagePreference": "English",
+      "PhoneNumber": "4565656434",
+      "Email": "test@test.com",
+      "Province": "BENGO",
+      "City": "Ambriz",
+      "Suburb": "Ambriz",
+      "FirstName": "Praveen",
+      "LastName": "Kumar"
+    },
+
+    "CreateCsiCustomerModel": {
+      "InstitutionName": "TestOne",
+      "InstitutionRegistrationNumber": "34343535",
+      "VATNo": "123242424",
+      "LanguagePrefered": "English",
+      "TypeOfBusiness": "Education",
+      "TypeOfEstablishment": "College",
+      "PhoneNumber": "4565656434",
+      "Email": "test@test.com",
+      "PostalCode": "AGO0002",
+      "Province": "BENGO",
+      "City": "Ambriz",
+      "Suburb": "Ambriz",
+      "FirstName": "Praveen",
+      "LastName": "Kumar",
+      "IdentificationType": "Passport Number",
+      "IdentificationNumber": "M4545670"
+    },
+
+    "SelectModuleModel": {
+      "GetConnectedModule": "Get Connected"
+
+    },
+    "SelectCountryModel": {
+      "Country": "South Africa"
+
+    },
+    "createSpecialistCustomerModel": {
+      "CustomerType": "Panelist",
+      "ResidenceType": "Apartments",
+      "FirstName": "Amitja",
+      "Lastname": "Kumarka",
+      "IdentificationNo": "52641886369970",
+      "PhoneNumber": "60478415",
+      "EmailAddress": "Test643@gmail.com"
+    },
+    "CreateQuoteModel": {
+      "Country": "Angola",
+      "CustomerType": "Residential",
+      "PrincipalPackages": "DStv Mega",
+      "Subscription": "Monthly",
+      "Devices": "DStv Transformador DSD1132",
+      "Insurance": "NO",
+      "HaveAddOn": "NO",
+      "AddOn": "DStv Frances Touch",
+      "QuotationNumber": "123242424",
+      "AddCustInfo": "NO",
+      "CaptureVatNo": "YES",
+      "FirstName": "hello",
+      "LastName": "hello1",
+      "Email": "thokozani@dsfdfs.com",
+      "Phoneprefix": "27",
+      "CountryCode": "09867446"
+    },
+    "CreateQuoteModelWithAddOn": {
+      "Country": "South Africa",
+      "CustomerType": "Residential",
+      "PrincipalPackages": "DStv Premium Streaming",
+      "Subscription": "Monthly",
+      "Devices": "DStv Explora",
+      "Insurance": "NO",
+      "HaveAddOn": "YES",
+      "AddOn": "DStv Indian Add-on",
+      "QuotationNumber": "123242424",
+      "AddCustInfo": "NO",
+      "CaptureVatNo": "YES",
+      "FirstName": "hello",
+      "LastName": "hello1",
+      "Email": "thokozani@dsfdfs.com",
+      "Phoneprefix": "27",
+      "CountryCode": "09867446"
+    },
+    "CreateQuoteModelWithVat": {
+      "Country": "Angola",
+      "CustomerType": "Residential",
+      "PrincipalPackages": "DStv Premium",
+      "Subscription": "Monthly",
+      "Devices": "DStv Explora",
+      "Insurance": "NO",
+      "HaveAddOn": "YES",
+      "AddOn": "DStv Indian Add-on",
+      "QuotationNumber": "123242424",
+      "AddCustInfo": "YES",
+      "CaptureVatNo": "YES",
+      "VatNo": "67897543",
+      "FirstName": "hello",
+      "LastName": "hello1",
+      "Email": "thokozani@dsfdfs.com",
+      "Phoneprefix": "0094034043",
+      "CountryCode": "27"
+    },
+    "ExistingCustomerModel": {
+      "CustomerNumber": "113123502"
+
+    },
+    "ExistingQuoteModel": {
+      "CustomerNumber": "113123502"
+    },
+    "SuspendedHolidayHomeViewing": {
+      "Status": "Suspended",
+      "DecoderNumber": "",
+      "DeviceSelection": "",
+      "ContractPeriod": "Monthly",
+      "Country": "South Africa",
+      "Agreement": "Holiday Home"
+    },
+    "XtraViewActivationModel": {
+      "SmartCard1": "A100114452",
+      "SmartCard2": "A100142257",
+      "SmartCard3": "A100194317"
+    },
+    "ActivateDccWithXtraView": {
+      "Status": "Active",
+      "DecoderNumber": "",
+      "DeviceSelection": "XtraView",
+      "ContractPeriod": "Monthly",
+      "Country": "South Africa",
+      "Agreement": "General",
+      "IsDeviceNumber": "Yes"
+    },
+    "GetGeneralSmartcardNumber": {
+      "Status": "Active",
+      "DecoderNumber": "",
+      "Agreement": "General",
+      "DeviceSelection": "",
+      "ContractPeriod": "-",
+      "Country": "South Africa",
+      "IsDeviceNumber": "No"
+    },
+    "CsiLogsMessage": {
+      "LogsId": "IS20-SOENTL"
+    },
+    "FinancialTransactionTexts": {
+      "TransactionText": "Reversal",
+      "ChargeText": "Charge",
+      "ReversalText": "Reversal"
+    },
+    "CustomerInteractionMessages": {
+      "ScheduledCancellationMessage": "is scheduled for cancellation on "
+    },
+    "HistoryEventIds": {
+      "CancelContractEventId": "1404",
+      "CancelPackageEventId": "142"
+    },
+    "GetDecoderAnnually": {
+      "Status": "Active",
+      "DecoderNumber": "",
+      "Agreement": "General",
+      "DeviceSelection": "",
+      "ContractPeriod": "24",
+      "Country": "South Africa"
+    },
+    "CreateResidentialCustomerModelSA": {
+      "AcceptBtn": "Accept",
+      "CstTitle": "Mrs",
+      "CstFName": "Sonali",
+      "CstLName": "Dighe",
+      "CstIdType": "Social Identity Number",
+      "CstIdNumber": "",
+      "CstLaunguage": "English",
+      "CstResidenceType": "House",
+      "CstPhoneContactValue": "70124",
+      "CstEmail": "ygx1@outlook.com",
+      "CstCountry": "South Africa",
+      "Province": "Gauteng",
+      "CstCitySA": "ALBERTON",
+      "CstSuburbSA": "MEYERSDAL"
+    }
+  }
+}

@@ -1,0 +1,455 @@
+﻿{
+  "TestDataModel": {
+    "ClarityLoginModel": {
+      "Username": "af\\23-LT-User9920",
+      "Password": "OXBBMW45YjFLMzFtVkkxcA==",
+      "Country": "Angola",
+      "URL": "https://clarityafrica-dt.multichoice.co.za/komodoui.ui/#/login",
+      "Host": "10.100.192.32",
+      "Port": "1521",
+      "ServiceName": "DTAFR02",
+      "DbUserName": "cd_ago_pr",
+      "DbPassword": "Y2RfYWdvX2R0MDI="
+    },
+    "DBAccessModel": {
+      "Host": "10.100.192.32",
+      "Port": "1521",
+      "ServiceName": "DTAFR02",
+      "DbUserName": "cd_ago_pr",
+      "DbPassword": "Y2RfYWdvX2R0MDI="
+    },
+    "SuperUserDetailsModel": {
+      "Username": "af\\23-LT-User9950",
+      "Password": "OXBBMW45YjFLMzFtVkkxcA==",
+      "Country": "Angola",
+      "URL": "https://clarityafrica-dt.multichoice.co.za/komodoui.ui/#/login",
+      "Host": "10.100.192.32",
+      "Port": "1521",
+      "ServiceName": "DTAFR02",
+      "DbUserName": "cd_ago_pr",
+      "DbPassword": "Y2RfYWdvX2R0MDI="
+    },
+
+    "ClarityCreditControlResidentialsLoginModel": {
+      "Username": "af\\23-LT-User9951",
+      "Password": "OXBBMW45YjFLMzFtVkkxcA==",
+      "Country": "Angola",
+      "URL": "https://clarityafrica-dt.multichoice.co.za/komodoui.ui/#/login",
+      "Host": "10.100.22.35",
+      "Port": "1521",
+      "ServiceName": "DTAFR01",
+      "DbUserName": "cd_afr_pr",
+      "DbPassword": "Y2RfYWZyX2R0"
+    },
+
+    "SupervisorLoginModel": {
+      "Username": "af\\23-LT-User9953",
+      "Password": "OXBBMW45YjFLMzFtVkkxcA==",
+      "Country": "Angola",
+      "URL": "https://clarityafrica-dt.multichoice.co.za/komodoui.ui/#/login",
+      "Host": "10.100.192.32",
+      "Port": "1521",
+      "ServiceName": "DTAFR02",
+      "DbUserName": "cd_ago_pr",
+      "DbPassword": "Y2RfYWdvX2R0MDI="
+    },
+    "CreateDealerModel": {
+      "CustomerType": "Super Dealer",
+      "StockHandler": "Agent",
+      "CompanyName": "TATA",
+      "CompanyRegistrationNumber": "123456789",
+      "VATNo": "123242424",
+      "TaxNo": "4343423",
+      "LanguagePreference": "English",
+      "PhoneNumber": "922",
+      "Email": "test@test.com",
+      "Province": "BENGO",
+      "City": "Ambriz",
+      "Suburb": "Ambriz",
+      "FirstName": "Praveen",
+      "LastName": "Kumar"
+    },
+    "AddDeviceAndPackagesModelPreactivateXtraview": {
+      "SmartcardNumber": "Z601025508"
+    },
+    "StockAndDistributionCashSaleIssueStockPaymentMade": {
+      "CustomerNumber": "Super Dealer",
+      "Devices": "Instalação Certificada DStv EXPLORA",
+      "QuoteNumber": ""
+    },
+    "CreateCsiCustomerModel": {
+      "InstitutionName": "TestOne",
+      "InstitutionRegistrationNumber": "34343535",
+      "VATNo": "123242424",
+      "LanguagePrefered": "English",
+      "TypeOfBusiness": "Education",
+      "TypeOfEstablishment": "College",
+      "PhoneNumber": "4565656434",
+      "Email": "test@test.com",
+      "PostalCode": "AGO0002",
+      "Province": "BENGO",
+      "City": "Ambriz",
+      "Suburb": "Ambriz",
+      "FirstName": "Praveen",
+      "LastName": "Kumar",
+      "IdentificationType": "Passport Number",
+      "IdentificationNumber": "M4545670"
+    },
+
+    "SelectModuleModel": {
+      "GetConnectedModule": "Get Connected"
+
+    },
+    "SelectCountryModel": {
+      "Country": "Angola"
+
+    },
+    "createSpecialistCustomerModel": {
+      "CustomerType": "Panelist",
+      "ResidenceType": "Apartments",
+      "FirstName": "Amitja",
+      "Lastname": "Kumarka",
+      "IdentificationNo": "526418862368",
+      "PhoneNumber": "60478",
+      "EmailAddress": "Test643@gmail.com",
+      "CustomerNumber": "",
+      "Device": "",
+      "Package": ""
+    },
+    "CreateQuoteModel": {
+      "Country": "Angola",
+      "CustomerType": "Residential",
+      "PrincipalPackages": "DStv Mega",
+      "Subscription": "Monthly",
+      "Devices": "DStv Transformador DSD1132",
+      "Insurance": "NO",
+      "HaveAddOn": "NO",
+      "AddOn": "DStv Frances Touch",
+      "QuotationNumber": "123242424",
+      "AddCustInfo": "NO",
+      "CaptureVatNo": "YES",
+      "FirstName": "hello",
+      "LastName": "hello1",
+      "Email": "thokozani@dsfdfs.com",
+      "Phoneprefix": "27",
+      "CountryCode": "09867446"
+    },
+    "CreateQuoteModelWithAddOn": {
+      "Country": "Angola",
+      "CustomerType": "Residential",
+      "PrincipalPackages": "DStv Mega",
+      "Subscription": "Monthly",
+      "Devices": "DStv Transformador DSD1132",
+      "Insurance": "NO",
+      "HaveAddOn": "YES",
+      "AddOn": "DStv Frances Touch",
+      "QuotationNumber": "123242424",
+      "AddCustInfo": "NO",
+      "CaptureVatNo": "YES",
+      "FirstName": "hello",
+      "LastName": "hello1",
+      "Email": "thokozani@dsfdfs.com",
+      "Phoneprefix": "27",
+      "CountryCode": "09867446"
+    },
+    "CreateQuoteModelWithVat": {
+      "Country": "Angola",
+      "CustomerType": "Residential",
+      "PrincipalPackages": "DStv Mega",
+      "Subscription": "Monthly",
+      "Devices": "DStv A4 Comando",
+      "Insurance": "NO",
+      "HaveAddOn": "YES",
+      "AddOn": "DStv Frances Touch",
+      "QuotationNumber": "123242424",
+      "AddCustInfo": "YES",
+      "CaptureVatNo": "YES",
+      "VatNo": "67897543",
+      "FirstName": "hello",
+      "LastName": "hello1",
+      "Email": "thokozani@dsfdfs.com",
+      "Phoneprefix": "0094034043",
+      "CountryCode": "27"
+    },
+    "ExistingCustomerModel": {
+      "CustomerNumber": "218292885",
+      "CustomerDealerNumber": "119150210",
+      "SpecialistCustomerNumber": "90122570",
+      "CommercialCustomerNumberSuspension": "216405031",
+      "CommercialCustomerNumber": "218359421",
+      "MigratedCustomer": "85758937",
+      "SpecialistCustomerNumberForreconnect": "218218880",
+      "SpecialistCustomerNumberForimmediatereconnect": "218219535",
+      "CommercialCustomerNumberClearError": "142643270",
+      "SpecialistCustomerNumberVerification": "218247984",
+      "CustomerNumberForPreactivateEBQPendingQuote": "218297120",
+      "ResidentialCustomerNumberCash": "116202669",
+      "ArchivedFinancialTransactionsCustomer": "85758937",
+      "PreActivateXtraviewQuoteCustomer": "218304651",
+      "CustomerCLearingCashSale": "71216566",
+      "CommercialWithMultipleDeviceLinked": "218208078",
+      "CustomerNumberForEditDeviceForAngola": "216569837",
+      "CommercialCustomer": "218359421"
+    },
+    "CreateResidentialCustomerModel": {
+      "AcceptBtn": "Accept",
+      "CstTitle": "Mrs",
+      "CstFName": "Sonali",
+      "CstLName": "Dighe",
+      "CstIdType": "National ID",
+      "CstIdNumber": "78899888769",
+      "CstDOBDate": "19",
+      "CstDOBMonth": "12",
+      "CstDOBYear": "1992",
+      "CstLaunguage": "English",
+      "CstResidenceType": "House",
+      "CstPhoneContactValue": "91557",
+      "CstEmail": "ygx1@outlook.com",
+      "Province": "BENGO",
+      "CstCity": "Ambriz",
+      "CstSuburb": "Ambriz"
+    },
+    "CreateQuoteModelWithVatForLojaCabinda": {
+      "CQFName": "Sona",
+      "CQLName": "Dighe",
+      "CQPhoneNo": "7877",
+      "CQEmailId": "zxc@gmail.com",
+      "CQBasketEditTextBox": "3"
+    },
+    "GlobalSearchResidentialGOtvModel": {
+      "CustomerName": "Praveen",
+      "QuoteNumber": "QAGO-325844",
+      "DeviceNumber": "Z600745896",
+      "CaseNumber": "216567611-c1"
+    },
+    "ManageCustomerResidentialGOtvModel": {
+      "PiracyAccount": "116188389",
+      "ClosedAccount": "116190060",
+      "SuspendedAccount": "92541551",
+      "HolidayHomeAccount": "217865610",
+      "CQFName": "Sona",
+      "CQLName": "Dighe",
+      "CQPhoneNo": "7877",
+      "CQEmailId": "zxc@gmail.com",
+      "CQBasketEditsTextBox": "3"
+    },
+    "AddDeviceAndPackageFirstDevice": {
+      "DeviceIndex": "1",
+      "DevicePackageInclude": "yes",
+      "DevicePackageType": "ToUpdate",
+      "DeviceType": "DSD1132-E36",
+      "DeviceAddOnInclude": "no",
+      "DeviceAddOnType": "no",
+      "DeviceInsuranceInclude": "no",
+      "IccStatus": "Available for Use",
+      "SapStatus": "Sold",
+      "PrincipalPackage": "",
+      "AddOnPackage": "",
+      "AddOnCount": "",
+      "ProductType": "DTH",
+      "ChargePeriod": "Monthly",
+      "DeviceBoxOfficeInclude": "no",
+      "BoxOfficeCount": "",
+      "BoxOfficePackage": ""
+    },
+    "AddDeviceAndPackageSecondDevice": {
+      "DeviceIndex": "2",
+      "DevicePackageInclude": "no",
+      "DevicePackageType": "ToUpdate",
+      "DeviceType": "DSD1132-E36",
+      "DeviceAddOnInclude": "no",
+      "DeviceAddOnType": "no",
+      "DeviceInsuranceInclude": "no",
+      "IccStatus": "Available for Use",
+      "SapStatus": "Sold",
+      "PrincipalPackage": "",
+      "AddOnPackage": "",
+      "AddOnCount": "",
+      "ProductType": "DTH",
+      "ChargePeriod": "Monthly",
+      "DeviceBoxOfficeInclude": "no",
+      "BoxOfficeCount": "",
+      "BoxOfficePackage": ""
+    },
+    "AddDeviceAndPackageThirdDevice": {
+      "DeviceIndex": "2",
+      "DevicePackageInclude": "no",
+      "DevicePackageType": "ToUpdate",
+      "DeviceType": "HS7330P-E36",
+      "DeviceAddOnInclude": "no",
+      "DeviceAddOnType": "no",
+      "DeviceInsuranceInclude": "no",
+      "IccStatus": "Available for Use",
+      "SapStatus": "Sold",
+      "PrincipalPackage": "",
+      "AddOnPackage": "",
+      "AddOnCount": "",
+      "ProductType": "DTH",
+      "ChargePeriod": "Monthly",
+      "DeviceBoxOfficeInclude": "no",
+      "BoxOfficeCount": "",
+      "BoxOfficePackage": ""
+    },
+    "AddDeviceAndPackageAddOnDevice": {
+      "DeviceIndex": "1",
+      "DevicePackageInclude": "yes",
+      "DevicePackageType": "ToUpdate",
+      "DeviceType": "DSD1132-E36",
+      "DeviceAddOnInclude": "yes",
+      "DeviceAddOnType": "no",
+      "DeviceInsuranceInclude": "no",
+      "IccStatus": "Available for Use",
+      "SapStatus": "Sold",
+      "PrincipalPackage": "",
+      "AddOnPackage": "",
+      "AddOnCount": "",
+      "ProductType": "DTH",
+      "ChargePeriod": "Monthly",
+      "DeviceBoxOfficeInclude": "no",
+      "BoxOfficeCount": "",
+      "BoxOfficePackage": ""
+    },
+    "AddDeviceAndPackageForDSD1132Device": {
+      "DeviceIndex": "1",
+      "DeviceNumber": "",
+      "DevicePackageInclude": "yes",
+      "DevicePackageType": "ToUpdate",
+      "DeviceType": "DSD1132",
+      "DeviceAddOnInclude": "no",
+      "DeviceAddOnType": "no",
+      "DeviceInsuranceInclude": "no",
+      "PrincipalPackage": "",
+      "AddOnPackage": "",
+      "ProductType": "DTH",
+      "ChargePeriod": "Monthly",
+      "AddOnCount": "",
+      "IccStatus": "Available for Use",
+      "SapStatus": "Sold",
+      "DeviceBoxOfficeInclude": "no",
+      "BoxOfficeCount": "",
+      "BoxOfficePackage": ""
+    },
+    "AddDeviceAndPackageFourthDevice": {
+      "DeviceIndex": "1",
+      "DevicePackageInclude": "no",
+      "DevicePackageType": "ToUpdate",
+      "DeviceType": "PS5300IMC",
+      "DeviceAddOnInclude": "no",
+      "DeviceAddOnType": "no",
+      "DeviceInsuranceInclude": "no",
+      "IccStatus": "Available for Use",
+      "SapStatus": "Sold",
+      "PrincipalPackage": "",
+      "AddOnPackage": "",
+      "AddOnCount": "",
+      "ProductType": "DTH",
+      "ChargePeriod": "Monthly",
+      "DeviceBoxOfficeInclude": "no",
+      "BoxOfficeCount": "",
+      "BoxOfficePackage": ""
+    },
+    "CommercialCustomerSuspension": {
+      "SmartcardNumber": "3000706216"
+    },
+    "AddDeviceAndPackagesModel": {
+      "DecoderNumber": "Z600774008"
+    },
+    "StolenDeviceSmartCard": {
+      "DeviceType": "SmartCard",
+      "PoliceCaseNumber": "**GENERATEPHONENUMBER",
+      "PoliceStation": "**GENERATEFIRSTNAME",
+      "PoliceCaseDate": "dd/MM/yyyy"
+    },
+    "StolenDeviceDecoder": {
+      "DeviceType": "StolenDecoder",
+      "PoliceCaseNumber": "**GENERATEPHONENUMBER",
+      "PoliceStation": "**GENERATEFIRSTNAME",
+      "PoliceCaseDate": "dd/MM/yyyy"
+    },
+    "AddDeviceAndProductDetails": {
+      "AddOn": false,
+      "AddOnCount": 0,
+      "ChargePeriod": "Monthly",
+      "DeviceNumber": "",
+      "PrincipalPackage": "",
+      "Product": "",
+      "IccStatus": "Available for Use",
+      "SapStatus": "Sold",
+      "DeviceAddOnInclude": "no",
+      "DeviceAddOnType": "no",
+      "DeviceInsuranceInclude": "no",
+      "AddOnPackage": "",
+      "ProductType": "DTH",
+      "DeviceBoxOfficeInclude": "no",
+      "BoxOfficeCount": "",
+      "BoxOfficePackage": ""
+    },
+    "CommercialCustomer": {
+      "Device": ""
+    },
+    "ImmediatePackageSuspensionViaSuspendAll": {
+      "Status": "Active",
+      "DeviceSelection": "",
+      "DecoderNumber": ""
+    },
+    "XtraViewActivationModel": {
+      "SmartCard1": "Z601161605",
+      "SmartCard2": "Z601161604",
+      "SmartCard3": "Z600744251"
+    },
+    "ImmediateUpgradeDisconnectedPrinciplePackage": {
+      "Status": "Disconnected",
+      "DecoderNumber": "",
+      "Action": "Upgrade",
+      "ChargePeriod": "Monthly",
+      "IpDate": "",
+      "Package": "",
+      "Schedule": "Immediate"
+    },
+    "ImmediateDowngradeDisconnectedPrincipleandAddon": {
+      "Status": "Disconnected",
+      "DecoderNumber": "",
+      "Action": "Downgrade",
+      "DeviceSelection": "AddOn",
+      "ChargePeriod": "Monthly",
+      "IpDate": "",
+      "Package": "",
+      "Schedule": "Immediate"
+    },
+    "ImmediateUpgradeDisconnectedPrincipleandAddon": {
+      "Status": "Disconnected",
+      "DecoderNumber": "",
+      "Action": "Upgrade",
+      "ChargePeriod": "Monthly",
+      "DeviceSelection": "AddOn",
+      "IpDate": "",
+      "Package": "",
+      "Schedule": "Immediate"
+    },
+    "XtraviewResidentialCustomerDowngradeDiconnectedPackages": {
+      "Status": "Disconnected",
+      "DecoderNumber": "",
+      "Action": "Downgrade",
+      "ChargePeriod": "Monthly",
+      "DeviceSelection": "Xtraview",
+      "IpDate": "",
+      "Package": "",
+      "Schedule": ""
+    },
+    "XtraviewResidentialCustomerUpgradeDiconnectedPackages": {
+      "Status": "Disconnected",
+      "DecoderNumber": "",
+      "Action": "Upgrade",
+      "ChargePeriod": "Monthly",
+      "DeviceSelection": "Xtraview",
+      "IpDate": "",
+      "Package": "",
+      "Schedule": "Immediate"
+    },
+     "HolidayHomeInstallation": {
+      "Status": "Active",
+      "DeviceSelection": "",
+      "DecoderNumber": ""
+    }
+  }
+}
